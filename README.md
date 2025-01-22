@@ -8,5 +8,5 @@
 
 ## SP 2025
 
-1/27/25 Gabriel Rioux (Cornell).
+1/27/25 Gabriel Rioux (Cornell). Joint with Applied and Computational Math Seminar.
 
