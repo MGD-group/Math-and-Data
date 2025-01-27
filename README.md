@@ -8,9 +8,9 @@
 
 ## SP 2025
 
-1/27/25 Gabriel Rioux (Cornell). Joint with Applied and Computational Math Seminar.
+1/27/25. Gabriel Rioux (Cornell). Joint with Applied and Computational Math Seminar.
 
-1/30/25 Sangmin Park (CMU). Joint with Applied and Computational Math Seminar.
+1/30/25. Sangmin Park (CMU). Joint with Applied and Computational Math Seminar.
 
 3/13/25. Amit Patel (CSU).
 
