@@ -2,9 +2,9 @@
 
 ![screenshot](./mad.png)
 
-**When**: Thursdays 3:30PM (but there might be asynchronous slots).
+**When**: Thursdays 10:30AM (but there might be asynchronous slots).
 
-**Where**: Hill 423.
+**Where**: Hill 705.
 
 ## SP 2025
 
