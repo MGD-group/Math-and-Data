@@ -12,7 +12,7 @@
 
 1/30/25. Sangmin Park (CMU). Joint with Applied and Computational Math Seminar.
 
-3/14/25. Amit Patel (CSU). Special time: 3PM in Hill 705: https://www.math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/03/14/22855/-/inferring-dynamics-with-generalized-persistence-diagrams 
+3/14/25. Amit Patel (CSU). Note the special day/time: Friday at 3PM in Hill 705: https://www.math.rutgers.edu/news-events/list-all-events/icalrepeat.detail/2025/03/14/22855/-/inferring-dynamics-with-generalized-persistence-diagrams 
 
 3/27/25. Saul Rodriguez-Martin (OSU).
 
